@@ -11,7 +11,7 @@ Reading the "BX-Books" dataset and uploading the data to ElasticSearch. Then, gi
 We combine the BM25 ranking, the personal score of the user and the average users' score to create our own personalized ranking for the book results. Return the results in descending order based on this ranking.
 
 ## 3. Using Neural Network to predict users' scores
-Tring to improve the quality of sorting by predicting a user's personal score for each book of the book results.
+Trying to improve the quality of sorting by predicting a user's personal score for each book of the book results.
 
 ## 4. k-meand clustering of books
 Performing k-means clustering of the books based on cosine similarity. Then, trying to extract demographic correlations between the clusters.
