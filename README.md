@@ -1,6 +1,6 @@
 # Book-Search-Engine-based-on-ElasticSearch
 
-A university project created for the lesson ***"Information Retrieval"*** with my colleague [Nikos Stamopoulos](https://github.com/nikosstam4)
+A university project created for the lesson ***"Information Retrieval"*** with my colleague [Nikos Stamopoulos](https://github.com/nikosstam4).
 
 <img src="https://github.com/nikpapage23/Book-Search-Engine-based-on-ElasticSearch/blob/main/logo.jpg">
 
