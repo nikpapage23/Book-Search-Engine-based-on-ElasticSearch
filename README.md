@@ -2,7 +2,7 @@
 
 A university project created for the lesson ***"Information Retrieval"*** with my colleague [Nikos Stamopoulos](https://github.com/nikosstam4)
 
-<img src="https://github.com/nikpapage23/Book-Search-Engine-based-on-ElasticSearch/blob/main/logo.jpg" width="310" height="300">
+<img src="https://github.com/nikpapage23/Book-Search-Engine-based-on-ElasticSearch/blob/main/logo.jpg">
 
 ## 1. Book results based on BM25 ranking
 Reading the "BX-Books" dataset and uploading the data to ElasticSearch. Then, given a book lemma, run a query in the index, where we uploaded the data, and then return the book results in descending order based on the BM25 similarity ranking, provided by ElasticSearch.
