@@ -21,4 +21,4 @@ Performing k-means clustering of the books based on cosine similarity. Then, try
 - BX-Book-Ratings.csv
 - BX-Users.csv
 
-*P.S: They can be found and downloaded [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/).*
+*P.S. They can be found and downloaded [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/).*
