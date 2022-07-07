@@ -15,3 +15,10 @@ Trying to improve the quality of sorting by predicting a user's personal score f
 
 ## 4. k-means clustering of books
 Performing k-means clustering of the books based on cosine similarity. Then, trying to extract demographic correlations between the clusters.
+
+### Datasets used:
+- BX-Books.csv
+- BX-Book-Ratings.csv
+- BX-Users.csv
+
+*P.S: They can be found and downloaded [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/).*
